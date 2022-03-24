@@ -1,3 +1,3 @@
 # Blockchain Blogs
 
-web3 blog application.
+Blogging application in web3.
